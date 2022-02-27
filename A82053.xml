@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new declaration and remonstrance of the inhabitants of South-Wales. With the last transactions between the Scots and their King, and other remarkable intelligence of the proceedings of the Kirke Parliament and Army of Scotland. Also, the Lord Deputy of Irelands summons sent to General Preston Governor of Waterford, and General Prestons answer thereunto. Together with a message from the Prince of Orange to the magistrates of Amsterdam,</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82053</idno>
+            <idno type="STC">Wing D545</idno>
+            <idno type="STC">Thomason E605_3</idno>
+            <idno type="STC">ESTC R205845</idno>
+            <idno type="EEBO-CITATION">99865097</idno>
+            <idno type="PROQUEST">99865097</idno>
+            <idno type="VID">165671</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82053)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165671)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 93:E605[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new declaration and remonstrance of the inhabitants of South-Wales. With the last transactions between the Scots and their King, and other remarkable intelligence of the proceedings of the Kirke Parliament and Army of Scotland. Also, the Lord Deputy of Irelands summons sent to General Preston Governor of Waterford, and General Prestons answer thereunto. Together with a message from the Prince of Orange to the magistrates of Amsterdam,</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.C. and are to be sold at the Royal Exchange, and without Cripplegate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Scotland. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+               <term>Wales, South --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165671:1" rendition="simple:additions"/>
+            <p>A DECLARATION AND REMONSTRANCE OF THE INHABITANTS OF <hi>SO<g ref="char:V">Ʋ</g>TH-WALES.</hi>
+            </p>
+            <p>WITH The laſt tranſactions between the Scots and their King, And other remarkable intellignece of the proceedings of the Kirke Parliament and ARMY of SCOTLAND.</p>
+            <p>ALSO, The Lord Deputy of Irelands Summons ſent to General <hi>Preſton</hi> Governor of <hi>Waterford</hi> and General <hi>Preſitons</hi> anſwer thereunto.</p>
+            <p>TOGETHER With a MESSAGE from the Prince of <hi>Orange</hi> to the Magiſtrates of <hi>Amſterdam,</hi>
+            </p>
+            <p>
+               <add>June 28</add> LONDON, Printed for <hi>J. C.</hi> and are to be ſold at the <hi>Royal Exchange,</hi> and without <hi>Cripplegate,</hi> 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:165671:2"/>
+            <pb n="1" facs="tcp:165671:2"/>
+            <head>A LETTER FROM <hi>NEW-CASTLE,</hi> CONTAINING The laſt Proceedings in Scotland, and the progreſs of their declared King.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>TWo ſhips are brought hither, which were ta<g ref="char:EOLhyphen"/>ken prize by Capt. <hi>Halls ſquadron,</hi> he hath been very active, in ſecuring theſe parts from Pirats and Robers; thoſe; now taken are <hi>French,</hi> a Capt of one of the ſhips reports, that the declared King of <hi>Scots</hi> was at Sea, and for two or three days after his putting forth the weather was fowl and ſtormy, his re<g ref="char:EOLhyphen"/>ſolution (ſaith the relator) is for <hi>Scotland,</hi> but that
+<pb n="2" facs="tcp:165671:3"/>might change with the wind, &amp; then he is carried back again, or ſome other way. The news we have from <hi>Scotland</hi> is to this purpoſe, Committees are appointed in the ſeveral Shires, to take account of the Magazines and furniſh men with Atms; The recruits have arms already delivered out to them, and are in a daily po<g ref="char:EOLhyphen"/>ſture, ſome ſay in expectation of a Southern Alarum, others that they may be ready to attend their tituler King, who is as zealouſly expected, as ſurely diſpoſed of it once amongſt them; the rumor goes, that if he comes into that Kingdom, he ſhall be brought to <hi>Aber<g ref="char:EOLhyphen"/>deen</hi> or <hi>Glaſco,</hi> and not to <hi>Edenburgh,</hi> and that the <hi>Parli<g ref="char:EOLhyphen"/>ament</hi> will rejourn thither, and if he be thus conform<g ref="char:EOLhyphen"/>able to the Kirk, and receive benediction to his ſacred Crown (as they call it) oh what hopes will it give of a <hi>Presbyterian-Proſolit</hi> fit to plum the wings of <hi>Jure de<g ref="char:EOLhyphen"/>vino,</hi> that they may prey upon the Civil authority. One <hi>Smith</hi> (I cannot learn what Country man he is) was apprehended and committed into the Marſhals hands) for ſaying that the Clergy, and the Lords of <hi>Scotland</hi> conſulted together to keep the people in ſlave<g ref="char:EOLhyphen"/>ry, the condition of the common people there being little better then thoſe in <hi>England</hi> which once held vili<g ref="char:EOLhyphen"/>anage, and for that they find, that many of them begin to take notice of that freedom which others do enjoy, the Lords fearing their <hi>Diana</hi> ſhould fal to the ground, labor to ſupport the hight of a Tyranical Government, and thereby to keep the people in a ſtate ſo far from re<g ref="char:EOLhyphen"/>lieving themſelves, that they ſhall not have means to know the happineſs of good Common-wealths, where none can truly ſay they are miſerable or unfortunate. Its thought he will for this ſuddenly undergo the <hi>Church</hi> cenſure; and then you know what judgement
+<pb n="3" facs="tcp:165671:3"/>follows, by the late execution of their Kings Coſen. Lieut. Gen. <hi>Lambert</hi> hath a gallant Brigard towards the Borders, and Col. <hi>Pride</hi> is marching that way. All things are in a peaceable condition here.</p>
+            <closer>
+               <dateline>Newcaſtle <date>23. of <hi>June</hi> 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A <hi>Letter from</hi> Briſtol.</head>
+            <p>THe report goes that the <hi>Scots</hi> declared King, is gone <hi>Northward,</hi> a ſhip is latly taken the Cap. whereof had a Commiſſion from the Prince. From <hi>Ireland</hi> we receive Intelligence as fol<g ref="char:EOLhyphen"/>loweth. The Lord Deputy <hi>Ireton</hi> hath his head quar<g ref="char:EOLhyphen"/>ters at <hi>Clomwel,</hi> he hath ſent a Summons to <hi>Waterford,</hi> with certain conditions for the Souldiery, which if they accept of, they ſhall have liberty to march away accor<g ref="char:EOLhyphen"/>dingly, the conditions are theſe, <hi>viz.</hi>
+               <list>
+                  <item>1. That the Souldiery ſhall have liberty, to march a<g ref="char:EOLhyphen"/>way with Ammunition, Arms, bag and baggage, and have a ſafe convoy four miles.</item>
+                  <item>2. That at the four miles end, they ſhall lay down their Armes, which ſhall be delivered to ſuch as his <hi>Lordſhip,</hi> or the Superior there ſhall appoint.</item>
+                  <pb n="4" facs="tcp:165671:4"/>
+                  <item> 3. That when they have laid down their Arms as aforeſaid they ſhall enter into an en<g ref="char:EOLhyphen"/>gagement, not any more to take up armes a<g ref="char:EOLhyphen"/>gainſt the Parliament of England.</item>
+                  <item>4. That upon performance of the particu<g ref="char:EOLhyphen"/>lars aforeſaid, they ſhall have Protection to live peaceably at home, and enjoy what is their own; And ſome Officers have liberty to travel beyond Sea.</item>
+                  <item>5. That the Inhabitants of the town ſhall have liberty to diſpoſe of their own Eſtates.</item>
+               </list>
+            </p>
+            <p>General Preſton being Governour of this place, returned anſwer, That it was the firſt Summons &amp; conditions that ever he rec<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ived from any aſſailant, and although he we<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be<g ref="char:EOLhyphen"/>ſieged, he is an old ſouldier, and could not ac<g ref="char:EOLhyphen"/>cept of conditions unſought for.</p>
+            <p>Unto this the Lord Deputy ſent a re<g ref="char:EOLhyphen"/>ply, letting him underſtand, that if he remain<g ref="char:EOLhyphen"/>ed obſtinate, the buſineſs would ſhortly be in another way deſided betwixt them; and he doubts not, but God will continue the own<g ref="char:EOLhyphen"/>ing of his own cauſe, and be avenged on ſuch an idolatrous Rebel, having nothing whereof to boaſt but (Devil-like) his long continuance in ſinne.</p>
+            <pb n="5" facs="tcp:165671:4"/>
+            <p> The Inhabitants of South-wales, conſider<g ref="char:EOLhyphen"/>ing with themſelves the happy peace and freedom, they enjoy under the preſent Go<g ref="char:EOLhyphen"/>vernment, and the preſent dangers, by reaſon of diſcontented and disaffected perſons, have joyntly ſet forth a Declaration, which follow<g ref="char:EOLhyphen"/>eth, <hi>Hic Verbis.</hi>
+            </p>
+            <q>
+               <p>That the ſingular clemency and favour ex<g ref="char:EOLhyphen"/>tended by you to our long ſeduced Country, as wel in clearing the Inhabitants therof from the guilt wherein they had involved them<g ref="char:EOLhyphen"/>ſelves, with Offenders of a deeper ſtain, and interpreting all their failings, as the effects of fear and ſelf-preſervation, as in man faſting your care and goodneſs for the eternal Wel<g ref="char:EOLhyphen"/>fare of a people whoſe ways had lately been in oppoſition to your juſt proceedings, is an a<g ref="char:EOLhyphen"/>bundant refreſhment to our hearts, and an am<g ref="char:EOLhyphen"/>ple Teſtimony to the world, That the ſpirit of him who prayed, and laid down his life for his enemies, is your great Counſellor, in the high and weighty affairs you mannage for the Common-wealth: And that the ineſti<g ref="char:EOLhyphen"/>mable benefit which we do, and our poſteri<g ref="char:EOLhyphen"/>ty in after ages ſhall reap, by that Act for pro<g ref="char:EOLhyphen"/>pagating
+<pb n="6" facs="tcp:165671:5"/>the Goſpel, is an indelible engage<g ref="char:EOLhyphen"/>ment upon us to to bleſs God, that inclined our hearts to grant the ſame: And we truſt it will appear to your eternal honor, that the preaching of the Goſpel, is not the leaſt and moſt inconſiderable means, to ſecure and e<g ref="char:EOLhyphen"/>ſtabliſh your preſent Government.</p>
+               <p>Now for theſe ſo large and acceptable fa<g ref="char:EOLhyphen"/>vors, ſo far beyond our merit or expectation, proceeding from the Load through your pi<g ref="char:EOLhyphen"/>ety and prudence; The only return we are enabled to make, is, our moſt humble and thankful acknowledgements thereof, with our cordial profeſsion of all our future loyal<g ref="char:EOLhyphen"/>ty and integrety, by Gods aſsiſtance, to the utmoſt hazzard of out lives and fortunes, to the advance, and due execution of all ſervi<g ref="char:EOLhyphen"/>ces, according to your honorable and juſt commands.</p>
+            </q>
+            <p>Letters from Holland verefie, that the P. of Orange gave the Magiſtrates of Amſterdam a viſit. And ſent them a Meſſage to this effect, viz. That the General of the united Provin<g ref="char:EOLhyphen"/>ces deſired Audience in Common Councel; but was denyed.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
